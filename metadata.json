@@ -1,0 +1,6 @@
+{
+  "name": "Debt Tracker",
+  "description": "Мобильное приложение для учета долгов с отслеживанием частичных платежей, дедлайнов и архивом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
